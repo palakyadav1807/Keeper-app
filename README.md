@@ -1,5 +1,6 @@
 ## Description and Preview of website
-<img width="960" alt="Screenshot 2022-01-07 000017" src="https://user-images.githubusercontent.com/67941687/148433409-1addbe86-5483-4825-9f5b-c8b149777e72.png">
+<img width="960" alt="p2" src="https://user-images.githubusercontent.com/67941687/148582066-f9ff496b-5bdd-4274-8f00-b245b3b5d1a7.png">
+
 
 -a Simple Keeper App made with React
 
